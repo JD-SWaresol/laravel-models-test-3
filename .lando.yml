@@ -1,0 +1,4 @@
+name: laravel-modules-test-3
+recipe: laravel
+config:
+  webroot: app/public
